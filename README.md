@@ -26,8 +26,9 @@ This project includes:
 - **Tableau Desktop/Public** 🖥️
 - CSV file (included in the repository)
 
-## 🤝 Contributing
-Feel free to contribute by adding new dashboards, improving visualizations, or suggesting enhancements!
+## 📸 Screen Shot
+![image](https://github.com/user-attachments/assets/4db63bee-b764-4244-a670-df996b59710f)
+![image](https://github.com/user-attachments/assets/3e85f028-a2a3-40aa-93ab-f22343341e70)
 
 ## 📬 Contact
 For any queries, reach out via [prethish0409@gmail.com] 📩
